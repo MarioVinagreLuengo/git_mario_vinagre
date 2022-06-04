@@ -5,6 +5,8 @@ import java.io.*;
 // Aplicación para trabajar con la clase CBanco y la jerarquía
 // de clases derivadas de CCuenta
 //
+// El paquete cap10.Banco. no esta importado por tanto leer no está integrado
+
 public class Test
 {
   public static void escribirDatos(CBanco banco, String fich) throws IOException

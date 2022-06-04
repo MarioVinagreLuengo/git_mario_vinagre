@@ -5,6 +5,8 @@ import java.io.*;
 /////////////////////////////////////////////////////////////////
 // Aplicación para trabajar con matrices de objetos
 //
+//El paquete cap10.Banco. no esta importado por tanto leer no está integrado
+
 public class Test
 {
   public static int menú()
